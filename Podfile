@@ -8,5 +8,7 @@ target 'MVP Match' do
   # Pods for MVP Match
  pod 'SDWebImage'
  pod 'Alamofire'
+ pod 'Toast-Swift'
+ pod 'RealmSwift'
 
 end
